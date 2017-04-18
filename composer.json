@@ -1,0 +1,19 @@
+{
+    "name": "lyuy/lyuy",
+    "description": "The Test",
+    "type": "lib",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lyuy",
+            "email": "18903181076@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+          "Lyuy\\Lyuy": "src/"
+        }
+    }
+}
